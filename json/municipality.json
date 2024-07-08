@@ -85,6 +85,14 @@
                 {
                     "romaji": "Narashino",
                     "kanji": "習志野"
+                },
+                {
+                    "romaji": "Ichikawa",
+                    "kanji": "市川"
+                },
+                {
+                    "romaji": "Funabashi",
+                    "kanji": "船橋"
                 }
             ],
             "Noda": [
@@ -95,12 +103,20 @@
                 {
                     "romaji": "Kashiwa",
                     "kanji": "柏"
+                },
+                {
+                    "romaji": "Matsudo",
+                    "kanji": "松戸"
                 }
             ],
             "Sodegaura": [
                 {
                     "romaji": "Sodegaura",
                     "kanji": "袖ヶ浦"
+                },
+                {
+                    "romaji": "Ichihara",
+                    "kanji": "市原"
                 }
             ]
         }
@@ -167,6 +183,10 @@
                 {
                     "romaji": "Koriyama",
                     "kanji": "郡山"
+                },
+                {
+                    "romaji": "Shirakawa",
+                    "kanji": "白河"
                 }
             ],
             "Iwaki": [
@@ -245,18 +265,30 @@
                 {
                     "romaji": "Kitami",
                     "kanji": "北見"
+                },
+                {
+                    "romaji": "Shiretoko",
+                    "kanji": "知床"
                 }
             ],
             "Kushiro": [
                 {
                     "romaji": "Kushiro",
                     "kanji": "釧路"
+                },
+                {
+                    "romaji": "Shiretoko",
+                    "kanji": "知床"
                 }
             ],
             "Muroran": [
                 {
                     "romaji": "Muroran",
                     "kanji": "室蘭"
+                },
+                {
+                    "romaji": "Tomakomai",
+                    "kanji": "苫小牧"
                 }
             ],
             "Obihiro": [
@@ -347,6 +379,10 @@
                 {
                     "romaji": "Kagawa",
                     "kanji": "香川"
+                },
+                {
+                    "romaji": "Takamatsu",
+                    "kanji": "高松"
                 }
             ]
         }
@@ -433,6 +469,14 @@
                 {
                     "romaji": "Suzuka",
                     "kanji": "鈴鹿"
+                },
+                {
+                    "romaji": "Yokkaichi",
+                    "kanji": "四日市"
+                },
+                {
+                    "romaji": "Iseshima",
+                    "kanji": "伊勢志摩"
                 }
             ]
         }
@@ -509,6 +553,10 @@
                 {
                     "romaji": "Nara",
                     "kanji": "奈良"
+                },
+                {
+                    "romaji": "Asuka",
+                    "kanji": "飛鳥"
                 }
             ]
         }
@@ -519,6 +567,10 @@
                 {
                     "romaji": "Nagaoka",
                     "kanji": "長岡"
+                },
+                {
+                    "romaji": "Joetsu",
+                    "kanji": "上越"
                 }
             ],
             "Niigata": [
@@ -667,6 +719,10 @@
                 {
                     "romaji": "Shimane",
                     "kanji": "島根"
+                },
+                {
+                    "romaji": "Izumo",
+                    "kanji": "出雲"
                 }
             ]
         }
@@ -737,6 +793,14 @@
                 {
                     "romaji": "Adachi",
                     "kanji": "足立"
+                },
+                {
+                    "romaji": "Koto",
+                    "kanji": "江東"
+                },
+                {
+                    "romaji": "Katsushika",
+                    "kanji": "葛飾"
                 }
             ],
             "Hachioji": [
@@ -759,6 +823,10 @@
                 {
                     "romaji": "Suginami",
                     "kanji": "杉並"
+                },
+                {
+                    "romaji": "Itabashi",
+                    "kanji": "板橋"
                 }
             ],
             "Shinagawa": [
